@@ -1,16 +1,27 @@
-# 🧙‍♂️ MLOps Wizardry
+🧙‍♂️ MLOps Wizardry
+Welcome to MLOps Wizardry — my personal journey to mastering the craft of Machine Learning Operations.
+This repository serves as both a living notebook of everything I learn and a portfolio of hands-on projects demonstrating real-world MLOps workflows.
 
-Welcome to **mlops-wizardry**, my personal learning repository where I document everything I learn on my journey to mastering **MLOps (Machine Learning Operations)**. This repository serves as both a study companion and a practical portfolio showcasing my hands-on experience with MLOps tools, pipelines, and real-world deployment practices.
+From setting up reproducible ML pipelines to deploying, scaling, and monitoring models in production, this is where theory meets implementation.
 
----
+🎯 Mission
+To gain wizard-level proficiency in building, automating, and managing machine learning systems — making them reliable, scalable, and production-ready.
 
-## 🧭 Objective
+Through this repository, I aim to:
+📚 Document my learning of MLOps concepts, tools, and best practices
+🛠 Showcase real implementations of pipelines, deployments, and monitoring setups
+🚀 Build a foundation for becoming an industry-ready MLOps engineer
+🤝 Share knowledge for anyone following a similar path
 
-To become highly proficient in deploying, automating, monitoring, and maintaining machine learning models at scale — in a reliable, reproducible, and production-grade manner.
+🛠 Tools & Technologies
+Some of the tools I explore and implement:
 
-This repository is meant to:
-- Track my progress as I learn MLOps tools and practices
-- Showcase my ability to apply them in real-world projects
-- Help others who are on the same journey
+Experiment Tracking:
+Pipeline Orchestration:
+Model Deployment:
+CI/CD:
+Monitoring:
+Cloud & Infrastructure:
 
----
+📜 License
+This repository is licensed under the MIT License — feel free to fork, adapt, and share.
