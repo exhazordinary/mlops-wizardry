@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/844134159402801325/b889e3401c5947d89ff106c0c29edb0e/artifacts
+deleted_time: 1754921556624
+end_time: 1754919745212
+entry_point_name: ''
+experiment_id: '844134159402801325'
+lifecycle_stage: deleted
+run_id: b889e3401c5947d89ff106c0c29edb0e
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754919741027
+status: 3
+tags: []
+user_id: apple

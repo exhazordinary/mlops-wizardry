@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/247874453630836105/85f39ab1fc18485696faa21d5f7f3f60/artifacts
+end_time: 1754922216201
+entry_point_name: ''
+experiment_id: '247874453630836105'
+lifecycle_stage: active
+run_id: 85f39ab1fc18485696faa21d5f7f3f60
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754922212721
+status: 3
+tags: []
+user_id: apple

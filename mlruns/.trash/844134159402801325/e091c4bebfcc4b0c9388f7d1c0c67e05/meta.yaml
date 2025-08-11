@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/844134159402801325/e091c4bebfcc4b0c9388f7d1c0c67e05/artifacts
+deleted_time: 1754921556624
+end_time: 1754919752339
+entry_point_name: ''
+experiment_id: '844134159402801325'
+lifecycle_stage: deleted
+run_id: e091c4bebfcc4b0c9388f7d1c0c67e05
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754919748675
+status: 3
+tags: []
+user_id: apple
