@@ -15,7 +15,7 @@ To gain wizard-level proficiency in building, automating, and managing machine l
 
 # 🛠 Tools & Technologies
 Some of the tools I explore and implement:
-Experiment Tracking:
+Experiment Tracking: MLflow
 Pipeline Orchestration:
 Model Deployment:
 CI/CD:
