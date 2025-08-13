@@ -1,0 +1,3 @@
+[submodule "example-get-started-experiments"]
+	path = example-get-started-experiments
+	url = https://github.com/iterative/example-get-started-experiments.git
