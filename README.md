@@ -24,6 +24,3 @@ Cloud & Infrastructure:
 
 # 📜 License
 This repository is licensed under the MIT License — feel free to fork, adapt, and share.
-
-
-will update later
