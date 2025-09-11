@@ -1,6 +1,6 @@
 [submodule "example-get-started-experiments"]
 	path = example-get-started-experiments
 	url = https://github.com/iterative/example-get-started-experiments.git
-[submodule "external/optuna"]
-	path = external/optuna
+[submodule "optuna/optuna"]
+	path = optuna/optuna
 	url = https://github.com/optuna/optuna.git
