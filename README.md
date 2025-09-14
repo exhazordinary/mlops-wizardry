@@ -4,6 +4,8 @@ This repository serves as both a living notebook of everything I learn and a por
 
 From setting up reproducible ML pipelines to deploying, scaling, and monitoring models in production, this is where theory meets implementation.
 
+gone for a while?
+
 # 🎯 Mission
 To gain wizard-level proficiency in building, automating, and managing machine learning systems — making them reliable, scalable, and production-ready.
 
